@@ -1,0 +1,3 @@
+Można zalogowac sie jako admin /admin
+login admin
+haslo superpassword
